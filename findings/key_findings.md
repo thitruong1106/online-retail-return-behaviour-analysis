@@ -24,3 +24,14 @@ This pattern doesnt match a consumer behaviour but rather a bulk operational rev
 
 The implication when looking at monthly return rates, i did suspect customer werent happy with their purchases, or that the return policy was too generous allowing returns after a long period. Neither assumption was correct. The January 2011 spike was actually an accounting problem, not a reflection of customer sentiment. 
 
+## 3. Customer Behaviour: Loyal customer drives the business 
+
+A small group of customers accounts for a large share of revenue. The top 10% of customer generate nearly 64% of all revenue. The top 1% accounts for almost 32%, and the top 0.01 (6 customers) contributes to over 12% of total revenue. 
+
+This is a clear case of the Pareto principle, with revenue concentrated among a small group of customers. When six customers represent more than a tenth of the revenue, the business become vulnerable to their indivudual circumstances. If one of them switched suppliers, or simply stops buying, the impact is immediate and measureable. 
+
+The implication isnt that the business should ignore everyone else. it that the retention of these high valur customer needs to be intentional and persona. Automated email campaights doesnt replace the value of a relationship manager picking up the phone. knowing who these customers are, understanding their needs, and ensuring they feel valued should be a priority. 
+
+At the same time, understanding what makes these customers different, whether they are wholesalers, repeat gift buyers or something else, can reveal opportunities to develop more customer like them. 
+
+## 4. 
