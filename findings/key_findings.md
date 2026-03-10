@@ -34,4 +34,26 @@ The implication isnt that the business should ignore everyone else. it that the 
 
 At the same time, understanding what makes these customers different, whether they are wholesalers, repeat gift buyers or something else, can reveal opportunities to develop more customer like them. 
 
-## 4. 
+## 4. Product Performance 
+
+The products driving revenue and volume is what is expeceted from a gift and homeware retailer. In terms of revenue, Regency Cake Stand 3 Tier, White hanging Heart T-Light Holder, Jumbo Bag Red Retrospot, and Party Bunting are in the top 5 products best seller in terms of revenue generated for the business. 
+
+By units sold, the list includes World War 2 Gliders Assorted Design, Assorted Colour Bird Ornament, alongside the White Hanging Heart and Jumbo Bag. These are the type of products people would typically buy as gift or to deceoate their home's for occasion. 
+
+These products are the backbone of the business, particularyly during peak seasons. Stock availability should be carefully managed, particularly in the lead-up to the fourth quarter. Stock shortage in november can result in missed revenue opportunites. 
+
+## 5. Product Return Analysis: Seasonal Items Carry Higher Risk
+
+When we first ranked products by return rate, the results looked bizarre. Several products showed return rates exceeding 100%, which is mathematically impossible for consumer returns. This turned out to be the same operational reversals showing up again, combined with products that had very low sales volumes where a single return skewed the percentage.
+
+After filtering out products with fewer than 50 units sold, a clearer picture emerged. The products with the highest return rates were largely seasonal decorative items—cherry lights, festive candles, and holiday decor.
+
+This is not surprising, as seasonal products have a short selling window and are more likely to be returned after the peak period. In many cases, these returns may reflect normal seasonal buying patterns or unsold stock rather than product problems. This suggests that higher return rates for seasonal items may be an expected part of the business model, though return reasons should still be monitored to separate normal seasonality from genuine product issues.
+
+## Conclusion 
+
+This retailer has a clear and nsuccessful formula, which is selling appealing gifs and homeware products to customer who are most active during the christmas shopping period. The revenue numbers proves this works. 
+
+But the analysis also reveal vulnerabilites. The business is heavily dependent on a small number of customers and a narrow seasonal window. The January return spikes, while not indicative of customer dissatisfaction, still represent operational complexity that needs to be managed. And seasonal products, while profitable, carry higher return rates that should be factored into planning.
+
+Future analysis could explore where customers are located, whether they return repeatedly, how different product categories perform, and whether marketing activity influences any of these patterns. But currently, the priorities are clear, protect the holiday peak, retain top customers, and don't mistake operational noise for customer behaviour.
