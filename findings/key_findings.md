@@ -13,3 +13,14 @@ However, this level of seasonal dependence creates real business challenges. Cas
 Operational pressure intensifies dramatically during peak months, stretching staff and systems. 
 
 The question is, can the business find way to drive revenue in other months without losing the holiday peak. 
+
+## 2.Return Behaviour: What looked like a problem was actually Accounting. 
+
+At first glance, the return data for product was concering. Hence why further investigation was needed. Return rates jumped from around 11% in Decemember 2010 to 20% in January 2011, and from December 2011 to January 2012 they reached approximately 32%. The assumption that was made by me, was that these customer returned unwanted christmas gift in large numbers. 
+
+After investigation, one product explain the reason for the high return rates. StockCode 23166, with the description of Medium Ceramic Top Storage Jar, showing 74,215 units returned in january 2011 alone. When i looked at the invoices containing these return, they werent spread across hundred of different customer but rather a singular distinct invoice showing large quantites. 
+
+This pattern doesnt match a consumer behaviour but rather a bulk operational reversal, or wholesale order cancellation. 
+
+The implication when looking at monthly return rates, i did suspect customer werent happy with their purchases, or that the return policy was too generous allowing returns after a long period. Neither assumption was correct. The January 2011 spike was actually an accounting problem, not a reflection of customer sentiment. 
+
